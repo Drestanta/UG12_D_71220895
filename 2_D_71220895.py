@@ -11,7 +11,7 @@ if kalian == 1:
 elif kalian == 2:
     for kalian in range(50,66):
         print(kalian, ":", angka, "=", kalian/angka)
-elif:
+else:
     print("Pilihan tidak tersedia, jangan ngasal!")
 
 
